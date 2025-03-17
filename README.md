@@ -6,7 +6,7 @@
 ## 🚀 Quem sou eu?
 Meu nome é Maurício Argolo, sou um Desenvolvedor Front-End apaixonado por tecnologia e inovação. Desde criança, sempre fui fascinado pelo universo da programação e pelo impacto que a tecnologia pode ter na vida das pessoas e no mercado global. Meu primeiro contato com a área foi através de um curso de Web Design, o que despertou minha curiosidade para aprender cada vez mais. Desde então, venho aprimorando minhas habilidades de forma autodidata e buscando sempre novos desafios para me desenvolver profissionalmente.
 
-Atualmente, estou focado no estudo de JavaScript, PHP e Python, além de consolidar meu conhecimento em HTML5 e CSS3. Busco constantemente evoluir minhas competências técnicas e entender como diferentes tecnologias se integram para criar soluções eficientes.
+Atualmente, estou focado no estudo de JavaScript, além de consolidar meu conhecimento em HTML5 e CSS3. Busco constantemente evoluir minhas competências técnicas e entender como diferentes tecnologias se integram para criar soluções eficientes.
 
 ## 🎓 Formação Acadêmica
 Cursando Ensino Superior em:  
@@ -20,14 +20,14 @@ Acredito que minha formação diversificada me ajuda a ter uma visão ampla do m
 ## 🖥️ Minhas Habilidades Técnicas
 ✔️ Linguagens e Tecnologias:  
 Domínio: HTML5, CSS3  
-Aprendendo: JavaScript, PHP e Python
+Aprendendo: JavaScript
 
 ✔️ Ferramentas e Softwares:  
 Editores e Design: VSCode, Figma  
 Bancos de Dados: MySQL (básico)  
 Versionamento de Código: Git e GitHub (básico)  
-Metodologias Ágeis: Kanban (básico)  
-CMS e E-commerce: WordPress e WooCommerce
+Metodologias Ágeis: Kanban (básico)
+CMS: WordPress
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -82,19 +82,13 @@ Se você deseja trocar ideias, colaborar em projetos ou apenas bater um papo sob
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-argolo/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauricio_argolo/)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/mauricioargolo)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/mauricio_argolo_azevedo)
-
 <!--
-**mauricioargolo/mauricioargolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Estou trabalhando em ...
+- 🌱 Estou aprendendo ...
+- 👯 Quero colaborar em ...
+- 🤔 Procuro ajuda em ...
+- 💬 Me pergunte sobre ...
+- 📫 Como me contatar: ...
+- ⚡ Fato engraçado: ...
 -->
